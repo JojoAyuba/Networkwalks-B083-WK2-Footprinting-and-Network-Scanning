@@ -30,6 +30,7 @@ A hands-on cybersecurity internship project covering OSINT footprinting with too
 ### 📚 Modules Completed
 
 - **W2-PM1** — Multiple Kali Tools
+- **W2-PM4** - TheHarvester
 - **W2-PM5** — Zenmap Scanning
 
 ### 🔎 Phases Covered
